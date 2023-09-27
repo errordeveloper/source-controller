@@ -408,6 +408,8 @@ github.com/fluxcd/pkg/masktoken v0.2.0 h1:HoSPTk4l1fz5Fevs2vVRvZGru33blfMwWSZKsH
 github.com/fluxcd/pkg/masktoken v0.2.0/go.mod h1:EA7GleAHL33kN6kTW06m5R3/Q26IyuGO7Ef/0CtpDI0=
 github.com/fluxcd/pkg/oci v0.31.0 h1:Zpp65vcFJKRfeltuswKztJh2OrB86X3VrA1LU/VjspQ=
 github.com/fluxcd/pkg/oci v0.31.0/go.mod h1:UL7nzm7p3fk5X0ZTsHl3qBhRy/NtuGqFSangXvPKUNw=
+github.com/fluxcd/pkg/oci v0.31.2-0.20230927081137-4f69e7842ce2 h1:/KefkWnQSm0V/FEd72Fc2fdgqqA97RlfKgjlyezpFd0=
+github.com/fluxcd/pkg/oci v0.31.2-0.20230927081137-4f69e7842ce2/go.mod h1:UL7nzm7p3fk5X0ZTsHl3qBhRy/NtuGqFSangXvPKUNw=
 github.com/fluxcd/pkg/runtime v0.42.0 h1:a5DQ/f90YjoHBmiXZUpnp4bDSLORjInbmqP7K11L4uY=
 github.com/fluxcd/pkg/runtime v0.42.0/go.mod h1:p6A3xWVV8cKLLQW0N90GehKgGMMmbNYv+OSJ/0qB0vg=
 github.com/fluxcd/pkg/sourceignore v0.3.5 h1:omcHTH5X5tlPr9w1b9T7WuJTOP+o/KdVdarYb4kgkCU=
